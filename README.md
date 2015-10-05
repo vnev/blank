@@ -1,6 +1,6 @@
-# Mango
+# ??? 
 
-Repository for the Mango programming language as part of a blog series. The posts can be found [here](http://www.vnev.me). 
+Repository for the ??? programming language as part of a blog series. The posts can be found [here](http://www.vnev.me). 
 
 ## Building and running
  
